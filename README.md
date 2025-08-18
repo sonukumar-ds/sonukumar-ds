@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sonu Kumar
 
-🎓 **BSc Data Science & Applied AI** @ IITJ  
+🎓 **BSc Data Science in Applied AI&ML** @ IITJ  
 💡 Passionate about **AI, Machine Learning, and Data-Driven Problem Solving**  
 🚀 Building real-world AI-powered products during my semester break
 
